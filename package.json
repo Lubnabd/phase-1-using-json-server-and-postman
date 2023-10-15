@@ -1,3 +1,14 @@
+"liveServer.settings.ignoreFiles":{
+  "name": "name",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {}
+} [
+  ".vscode/**",
+  "**/db.json"
+], 
 {
   "name": "using-json-server",
   "version": "1.0.0",
